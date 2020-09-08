@@ -15,5 +15,7 @@ Github pages file , React / Rust wasm
 ***
 ### sample 
 
+https://kuc-arc-f.github.io/cms-wasm-sample-type5/
+
 ***
 
