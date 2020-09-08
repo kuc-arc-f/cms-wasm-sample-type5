@@ -1,6 +1,6 @@
 ﻿# cms-wasm-sample-type5
 
- Version: 0.9.2
+ Version: 0.9.3
 
  Author  : Kouji Nakashima / kuc-arc-f.com
 
